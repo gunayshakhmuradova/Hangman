@@ -1,3 +1,3 @@
 # Hangman
 This is a Hangman game.
-![alt text](http://url/to/[img.png](https://pixabay.com/link/?ua=cd3%3Dimage%26cd7%3Den%253Ahangman%2Bgame%253AAZE%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fpixabay.com%252F&sp=%2524%3Dadvertisement_clicked%26action%3Dnavigate%26ad_partner%3Dgetty%26ad_content%3Dapi_ad%26ad_type%3D%26media_type%3Dimage%26media_id%3D&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fhangman-chalk-writing-on-old-grunge-chalkboard-background-with-space-for-text-gm1146252014-308805086%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DSRP_image_sponsored%26utm_content%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fhangman%252520game%252F%26utm_term%3Dhangman%2Bgame&hash=daf292f1821583e57cc36939ea7a5a0ec1f0f7cc&=)
+<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
